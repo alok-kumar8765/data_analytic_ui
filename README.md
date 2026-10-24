@@ -112,7 +112,7 @@ If the project is hosted on GitHub, clone it using:
 
 ```py
 
-git clone https://github.com/alok-kaushal8765/data_analytic_ui.git
+git clone https://github.com/alok-kumar8765/data_analytic_ui.git
 
 ```
 
@@ -511,8 +511,8 @@ The MIT License permits reuse, modification, distribution, and commercial use, s
 
 For questions, suggestions, bug reports, or collaboration opportunities, please use the GitHub Issues section of your repository or contact the project maintainer through their preferred public contact channel.
 
-- GitHub: https://github.com/alok-kaushal8765/
-- Repository: https://github.com/alok-kaushal8765/YOUR-REPOSITORY
+- GitHub: https://github.com/alok-kumar8765/
+- Repository: [https://github.com/alok-kumar8765/data_analytic_ui](https://github.com/alok-kumar8765/data_analytic_ui/tree/main)
 
 Replace the example URLs with your actual GitHub profile and project repository.
 
