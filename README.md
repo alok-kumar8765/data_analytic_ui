@@ -34,7 +34,16 @@ Whether you're a student learning data analytics, a beginner exploring Python GU
 
 ## 🏷️ Project Badges
 
-!Python !Pandas !Matplotlib !Tkinter !License !Status
+<!-- Technology Stack Badges -->
+![Python](https://shields.io)
+![Pandas](https://shields.io)
+![Matplotlib](https://shields.io)
+![Tkinter](https://shields.io)
+
+<!-- Project Metadata Badges -->
+![License](https://shields.io)
+![Status](https://shields.io)
+
 
 ## 📑 Table of Contents
 
